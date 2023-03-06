@@ -5,5 +5,5 @@ This repository holds all the files where I practiced analyzing ecommerce data i
 Also, the dashboard in PowerBI was exported to PDF since I only have a free license.
 
 
-**Source for the Ecommerce dataset can be found [HERE](https://www.kaggle.com/datasets/mervemenekse/ecommerce-dataset)**
+**Source for the ecommerce dataset can be found [HERE](https://www.kaggle.com/datasets/mervemenekse/ecommerce-dataset)**
 
